@@ -1,4 +1,4 @@
-# 🐍 Curso de Python – Gustavo Guanabara (Curso em Vídeo)
+# 🐍 Exercícios Python
 
 Este repositório foi criado para **organizar, praticar e compartilhar** os exercícios realizados durante o curso de Python do professor **Gustavo Guanabara**, disponível gratuitamente no [Curso em Vídeo](https://www.cursoemvideo.com/).
 

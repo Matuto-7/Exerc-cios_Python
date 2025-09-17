@@ -17,8 +17,8 @@ Se você também está estudando esse curso ou quer revisar conceitos básicos, 
 |------|--------------------------------|-----------|
 | Aula 01 | print(), comentários        | ✅ Concluído |
 | Aula 02 | tipos primitivos, input()   | ✅ Concluído |
-| Aula 03 | operações matemáticas       | ⬜ Em andamento |
-| Aula 04 | variáveis, nomeação         | ⬜ Em breve |
+| Aula 03 | operações matemáticas       | ✅ Concluído  |
+| Aula 04 | variáveis, nomeação         | ✅ Concluído  |
 | ...     | ...                         | ⬜ ...       |
 
 ---

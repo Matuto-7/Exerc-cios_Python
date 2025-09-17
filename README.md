@@ -25,7 +25,9 @@ Se você também está estudando esse curso ou quer revisar conceitos básicos, 
 | Aula 08 | Utilizando Módulos | ✅ Concluído |
 | Aula 09 | Manipulação de Texto | ✅ Concluído |
 | Aula 10 | Condições | ✅ Concluído |
+| Aula 11 | Cores no Terminal | ✅ Concluído |
 ---
+
 
 ## 💡 Por que esse repositório existe?
 
